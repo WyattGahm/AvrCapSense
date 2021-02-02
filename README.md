@@ -1,0 +1,1 @@
+Tested on a t85 and m328. make sure you power it from a battery or a portable laptop. Pull the sensing pin high with a 1m resistor.
